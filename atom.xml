@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.artisthalic.com</id>
+    <title>ithalic斜倾</title>
+    <updated>2025-08-31T06:19:14.926Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://blog.artisthalic.com"/>
+    <link rel="self" href="https://blog.artisthalic.com/atom.xml"/>
+    <subtitle>漫吟风窗灯浅挑,闲步雨幕伞斜倾</subtitle>
+    <logo>https://blog.artisthalic.com/images/avatar.png</logo>
+    <icon>https://blog.artisthalic.com/favicon.ico</icon>
+    <rights>All rights reserved 2025, ithalic斜倾</rights>
+    <entry>
+        <title type="html"><![CDATA[闲碎(持续更新)]]></title>
+        <id>https://blog.artisthalic.com/post/xian-sui-chi-xu-geng-xin/</id>
+        <link href="https://blog.artisthalic.com/post/xian-sui-chi-xu-geng-xin/">
+        </link>
+        <updated>2025-08-30T15:12:59.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>tips:必须有特定电脑才能更新博客(笨蛋学习中)</strong></p>
+<h4 id="20258311416">2025/8/31/14/16</h4>
+<p>完成任务睡一会起来上学<br>
+下周网页待办:1.整理原稿(工具挂了这周写不了)<br>
+2.jomm的页面文稿整理<br>
+博客待办:之前博文归纳到这里</p>
+<p>zzzzzzzzzzzzzzzzzzz</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[军训回来的假期(8.29-8.31(utc+8)]]></title>
+        <id>https://blog.artisthalic.com/post/829-831utc8/</id>
+        <link href="https://blog.artisthalic.com/post/829-831utc8/">
+        </link>
+        <updated>2025-08-28T13:16:21.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>为期一周的军训结束了！我正在回家的路上，这次的假期是8.29到8.31上午，真是太短了。</strong></p>
+<p>现在讲讲在学校的事情吧，由于在操场上训练没能怎么画画，但是收集了一些素材和灵感，有机会应该会画出来。新买的丙烯马克笔很好用，不过只有黑白灰和一点赭色类，如果买多了学校也放不下哈哈哈。</p>
+<p>和之前提前学习一样，很快适应了学校生活，甚至军训期间还轻松了一点，在操场上阶段休息的时候也把小学学的一点Python捡起来了，渴望双休啊，这样周六日我就能摸到电脑了。</p>
+<p>密集跑仍然很累，教官是隔壁体育班班主任，我们训练时完全是爹不疼（教官主要去管隔壁班）妈不爱（班主任下班太早了），还被班主任压力，但表现还不错，把奖给老班主任带回来了，班主任比教官矮两个头，教官拍照时直接把手机悬在班主任头上，两个班都笑死了。</p>
+<p>好了，这个周六日任务很重，我就写到这里，如果有时间或者任务完成了，我就在返校前再写一篇。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[暑假近况]]></title>
+        <id>https://blog.artisthalic.com/post/first_of_all/</id>
+        <link href="https://blog.artisthalic.com/post/first_of_all/">
+        </link>
+        <updated>2025-08-17T18:23:05.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>或许我会在这里尝试分享生活，毕竟对等交换信息嘛。</strong><br>
+<em>原发布于lofter</em><br>
+目前网站算是搭好了，这是我暑假课外计划唯一完成的一项2333，但是第一次买没有经验，买的1核1G的服务器，对于我来说有些资源紧张，希望明年能换个大一点的，这样可以装后台/面板了。因为资源紧张，原先的一些设想不能实现，退而求其次，现在网站需要挂图库和博客的链接，这项挪到以后的零碎日程，我还没找到适合的网站，首要需求是简洁明了，博客在找到好网站之前都发在这里，lof的动态页面给我的感觉有点像DeviantArt。<br>
+目前任务是平稳度过高中第一个月，这样形成节奏可以稳定主业和副业的平衡。虽然有初三提前的基础但还是得抓一把课程，首要任务是开学考和军训，这两项只能靠恶补了哈哈。<br>
+在暑假试着练习了动画，看上去一抽一抽的很糟糕2333，缺乏练习，只能在放假时练一练了，希望能画出想要的故事。<br>
+顺带：我的电脑时区是utc-8，这样我在浏览时能更快判断大洋彼岸的时间了，这会儿大概是早上五点半</p>
+]]></content>
+    </entry>
+</feed>
